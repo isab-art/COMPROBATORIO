@@ -1,0 +1,71 @@
+body {
+  background-color: beige;
+  font-family: 'Cinzel', serif;
+  
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.light-bluelighten-1 {
+  background-color: darkorange;
+}
+.centerlight-blue-text {
+  background-color: darkorange;
+}
+.page-footer {
+  background-color: darkorange ;
+}
+.light{
+  text-align: center;
+  font-size: 20px;
+  
+}
+.card{
+  background-color: rgb(255, 140, 0);
+}
+
+.myBtn {
+ align-items: ;
+}
+.modal {
+  display: none; 
+  position: center; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 500px; 
+  height: 500px; 
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(255, 136, 0, 0.692); 
+  align-items: center;
+}
+
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  height: 350px; 
+  font-family: 'Cinzel', serif
+}
+
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
